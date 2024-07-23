@@ -1,0 +1,19 @@
+{
+  "name": "osanscheduler-models",
+  "version": "3.1.0",
+  "description": "Osan Scheduler Javascript Models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erneap/node-metrics.git"
+  },
+  "author": "Anton P. Erne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erneap/node-metrics/issues"
+  },
+  "homepage": "https://github.com/erneap/node-metrics#readme"
+}
